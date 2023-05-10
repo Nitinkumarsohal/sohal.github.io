@@ -1,0 +1,308 @@
+@media (max-width: 1399.98px) {
+    .edit {
+        bottom: 10%;
+        left: 22%;
+    }
+  
+    .cards .img img {
+        transform: translate(0px);
+    }  
+    .cards .text-style {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+}
+@media (max-width: 1199.98px) { 
+    .carousel-caption {
+        padding-bottom: 130px;
+    }
+    .edit {
+        left: 20%;
+    }
+    .nav-pills .nav-link {
+        width: 147px;
+        margin: 3px;
+    }
+    .nav-link {
+        margin: 0px;
+        padding: 0px;
+    }
+    .cards .text-style {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+    .cards .text-style {
+        border: 0px solid #747474;
+    }
+    .slider-2 .card-design .text h3 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .card-slider .card-edit .text h3 {
+        font-size: 18px;
+    }
+    .card-slider .card-edit .text .location .text-lo {
+        font-size: 14px;
+        margin-left: 8px;
+    }
+    .card-slider .item {
+        padding: 0px;
+    }
+    .banner-color::before {
+        right: 5%;
+    }
+}
+@media (max-width: 991.98px) { 
+    .carousel-caption h5 {
+        font-size: 38px;
+    }
+    .edit {
+        position: static;
+        border-radius: 8px;
+        border: 1px solid#eee;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        padding: 13px 12px;
+    }
+    .input-group {
+        margin: 7px 0px;
+        border: 1px solid #eee;
+        padding: 4px;
+        border-radius: 4px;
+    }
+    .search {
+        width: 100%;
+        max-width: 778px;
+        height: 49px;
+        margin: 12px 0px;
+    }
+    .hex-code-2 {
+        display: none;
+    }
+    .carousel-caption {
+        padding-bottom: 44px;
+    }
+    .navbar-light .navbar-toggler {
+        background-color: var(--btn-1-bg);
+    }
+    .navbar-collapse {
+        padding: 25px 0px;
+        background: #000000;
+        border-radius: 12px;
+        margin-top: 12px;
+    }
+    .hex-code {
+        display: none;
+    }
+    .side-bar li {
+        margin-left: 0px;
+    }
+    .side-bar {
+        margin-left: 0px;
+    }
+    .nav-link {
+        text-align: center;
+        margin: 10px !important;
+    }
+    .side-bar {
+        margin-left: 0px;
+        justify-content: center;
+        margin-top: 10px;
+    }
+    ul#pills-tab {
+        justify-content: center;
+    }
+    .nav-pills .nav-link {
+        margin: 4px !important;
+    }
+    .heading::before{
+        display: none;
+    }
+    .heading {
+        font-size: 30px;
+    }
+    .card-style {
+        width: 100%;
+        min-width: 239px;
+        max-width: 346px;
+        margin: 9px 0px;
+    }
+    .card-slider .heading-1::before {
+        display: none;
+    }
+    .cards .text-style {
+        margin: 25px 0px;
+        display: table;
+        padding: 0px;
+    }
+    .cards .text-style h4{
+        width: 100%;
+        max-width: 100%;
+    }
+    .cards .text-style p {
+        width: 100%;
+        max-width: 100%;
+        line-height: 23px;
+        padding-top: 4px;
+    }
+    .cards {
+        padding: 40px 0px 30px 0px;
+    }
+    footer .Copyright {
+        font-size: 15px;
+    }
+    footer .icon img {
+        margin: 0px 10px;
+        height: 22px;
+    }
+    footer .Privacy {
+        font-size: 14px;
+        margin-right: 0px;
+    }
+    footer .term {
+        margin-left: 18px;
+    }
+    footer .hex {
+        margin-left: 7px;
+    }
+}
+
+@media (max-width: 767.98px) { 
+    .card-slider::before {
+        display: none;
+    }
+    .nav-pills .nav-link {
+        margin: 8px !important;
+    }
+    .card-style {
+        min-width: 239px;
+        max-width: 262px;
+    }.banner-color::before {
+        display: none;
+    }
+    .banner-color .img-set img {
+        display: none;
+    }
+    .banner-color::after {
+        display: none;
+    }
+    .banner-color {
+        min-height: 400px;
+    }
+    .banner-color .text-box h4 {
+        font-size: 38px;
+    }
+    .cards .text-style h4 {
+        font-size: 35px;
+    }
+    footer .nav li {
+        margin: 13px;
+        padding: 0px;
+    }
+    footer .icon {
+        justify-content: center;
+        margin: 20px 0px;
+    }
+    footer .text {
+        justify-content: center;
+        margin: 7px 0px;
+    }    
+    footer .Privacy {
+        margin-right: 8px;
+    }
+    footer .Copyright {
+        font-size: 15px;
+        display: flex;
+        justify-content: center;
+    }
+    footer hr {
+        margin-top: 5px;
+    }
+    footer .nav {
+        margin-top: 24px;
+    }
+    footer {
+        padding: 40px 0px 10px 0px;
+    }
+}
+
+
+@media (max-width: 575.98px) { 
+    .slider .w-100 {
+        width: 100%!important;
+        min-height: 40vh;
+    }
+    .nav-pills .nav-link {
+        margin: 5px !important;
+        width: 137px;
+    }
+    .heading {
+        font-size: 20px;
+    }
+    .align {
+        align-items: center;
+        font-size: 16px;
+    }
+    .card-style {
+        min-width: 239px;
+        max-width: 500px;
+    }
+    .align {
+        margin-top: 25px;
+    }
+    .card-style {
+        margin: 13px 0px;
+    }
+    .card-slider::before {
+        display: none;
+    }
+    .card-slider .heading-1 {
+        font-size: 20px;
+    }
+    
+
+
+.align li {
+    font-size: 16px;
+    color: #747474;
+}
+.tabs {
+    padding: 45px 0px 5px 0px;
+}
+.banner-color .text-box h4::after {
+    display: none;
+}
+.banner-color .text-box h4 {
+    font-size: 28px;
+    line-height: 38px;
+}
+.owl-theme .owl-dots .owl-dot span {
+    margin: 0px 4px !important;
+}
+.slider-2 .owl-dots {
+    margin-top: 3px;
+}
+.slider-2 {
+    padding: 40px 0px 8px 0px;
+}
+.cards .text-style h4 {
+    font-size: 24px;
+}
+.cards .text-style p {
+    padding-top: 0px;
+}
+.store img{
+    margin-left: 0px;
+    margin-top: 10px;
+}
+footer .nav {
+    margin-top: 27px;
+    display: list-item;
+    text-align: center;
+}
+footer .nav li {
+    display: list-item;
+}
+footer .Copyright {
+    text-align: center;
+}
+}
